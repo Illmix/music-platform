@@ -1,0 +1,19 @@
+.trackText {
+  background-color: #dcd8d8;
+  padding: .8em;
+}
+
+.trackCommentField + .trackCommentField, .sendCommentBtn {
+  margin-top: .5rem;
+}
+
+.trackComment {
+  margin-top: .5rem;
+  border: 1px solid teal;
+  padding: 1em;
+}
+
+.commentText {
+  background: lightgrey;
+  padding: 0.5em;
+}

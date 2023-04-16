@@ -1,0 +1,20 @@
+.range {
+  width: clamp(7rem, 100%, 90rem)
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 65%;
+  margin: 0 2em;
+}
+
+.volumeContainer {
+  width: 10%;
+}
+
+@media only screen and (max-width: 450px) {
+  .volumeContainer {
+    display: none;
+  }
+}

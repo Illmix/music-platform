@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b9cc668-d63a-4b16-852e-1de3bed61415" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/music-platform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AlbumItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AlbumList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FileUpload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ModalItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NavBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Player.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/StepWrapper.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TrackItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TrackList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TrackProgress.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/VolumeRegulation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useInput.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useTypedSelector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/MainLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/albums/[id].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/albums/create.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/albums/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tracks/[id].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tracks/create.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tracks/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/action-creators/album.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/action-creators/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/action-creators/player.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/action-creators/track.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/reducers/albumReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/reducers/playerReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/reducers/trackReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/AlbumItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/Player.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/StepWrapper.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/TrackItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/TrackProgress.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/index.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/mainlayout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/tracks.create.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/album.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/player.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/track.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diagram.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/nest-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/album/album.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/album/album.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/album/album.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/album/album.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/album/dto/add-track.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/album/dto/create-album.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/file/file.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/file/file.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/track/dto/create-comment.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/track/dto/create-track.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/track/schemas/comment.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/track/schemas/track.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/track/track.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/track/track.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/track/track.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OWIOQFAvjpC2c1F3qZGh3CwOmr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/WORK/Fullstack/music-platform/server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9cc668-d63a-4b16-852e-1de3bed61415" name="Changes" comment="" />
+      <created>1681669878845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681669878845</updated>
+      <workItem from="1681669879905" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

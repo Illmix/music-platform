@@ -1,0 +1,43 @@
+img {
+    max-width: 100%;
+}
+
+.text-button {
+    cursor: pointer;
+}
+
+.text-button:hover {
+    text-decoration: underline black;
+}
+
+.card {
+    width: min(90%, 90rem);
+    padding: .5em;
+}
+
+.deleteBtn {
+    margin-left: auto;
+}
+
+.card-item {
+    cursor: pointer;
+    margin: 1.3rem;
+    padding: .8em;
+    display: flex;
+    align-items: center;
+    border: 3px solid teal;
+}
+
+.card-details {
+    width: min(15%, 12.5rem);
+    margin: 0 1.2rem;
+}
+
+.card-item-name {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.card-item-detail {
+    color: grey;
+}
