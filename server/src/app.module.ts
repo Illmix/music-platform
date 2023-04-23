@@ -10,7 +10,7 @@ import * as path from "path";
   imports: [
     TrackModule,
     AlbumModule,
-    MongooseModule.forRoot('mongodb+srv://illachaban1100:123@cluster0.yo6bmxz.mongodb.net/?retryWrites=true&w=majority'),
+    MongooseModule.forRoot(proccess.env.dblink),
     FileModule,
     ServeStaticModule.forRoot({
       rootPath: path.resolve(__dirname, 'static'),
